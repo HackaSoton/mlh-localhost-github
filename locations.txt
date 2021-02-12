@@ -1,6 +1,7 @@
 Add-Irbid-Jordan-Hometown
 Irbid, Jordan
 Fremont, California, USA
+Bucharest, Romania
 Sibiu, Sibiu, Romania
 Oxshott, Surrey, United Kingdom
 Morgan, London
