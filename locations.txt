@@ -2,3 +2,5 @@ Add-Irbid-Jordan-Hometown
 Irbid, Jordan
 Fremont, California, USA
 Oxshott, Surrey, United Kingdom
+Morgan, London
+Istanbul, Turkey
